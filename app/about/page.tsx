@@ -4,7 +4,7 @@ import Navigation from "@/components/navigation"
 import Footer from "@/components/footer"
 import MissionSection from "@/components/mission-section"
 import ValuesSection from "@/components/values-section"
-import TeamSection from "@/components/team-section"
+
 import ContactForm from "@/components/contact-form"
 
 export default function AboutPage() {
@@ -13,7 +13,7 @@ export default function AboutPage() {
       <Navigation />
       <MissionSection />
       <ValuesSection />
-      <TeamSection />
+
       <ContactForm />
       <Footer />
     </main>
